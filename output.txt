@@ -1,0 +1,112 @@
+Desktop/ 
+|--- Screen Shot 2018-01-12 at 3.01.41 PM.png
+|--- Screen Shot 2017-12-26 at 11.04.07 PM.png
+|--- crypto_2017.jpg
+|--- Screen Shot 2017-12-21 at 3.25.13 PM.png
+|--- Screen Shot 2017-12-21 at 3.25.29 PM.png
+|--- .DS_Store
+|--- Screen Shot 2017-12-21 at 3.21.36 PM.png
+|--- 13.Harshit Anand_Payslip_December_2017.pdf
+|--- Harshit_Anand-Form 12BB - Investment Declaration Form.xls
+|--- privateinvestocat.jpg
+|--- Screen Shot 2018-01-12 at 3.01.51 PM.png
+|--- .localized
+|--- Screen Shot 2018-01-06 at 12.47.17 AM.png
+|--- Screen Shot 2017-12-22 at 2.50.10 PM.png
+|--- goibibo.pdf
+|--- Screen Shot 2017-12-22 at 2.49.02 PM.png
+|--- Screen Shot 2017-12-20 at 11.13.47 PM.png
+|--- Select your seat and Web Checkin online -IndiGo.pdf
+|--- 5e026ae9b3.jpg
+|--- Screen Shot 2017-12-26 at 11.22.38 PM.png
+|--- Screen Shot 2017-12-26 at 1.58.15 PM.png
+|--- Screen Shot 2018-01-12 at 3.02.00 PM.png
+|--- Cracking the Coding Interview.pdf
+|--- Screen Shot 2018-01-12 at 2.04.11 AM.png
+|--- Screen Shot 2018-01-12 at 3.01.29 PM.png
+|--- Screen Shot 2018-01-12 at 2.53.38 PM.png
+|--- Screen Shot 2017-12-26 at 11.03.53 PM.png
+|--- walls
+|      |--- 399H.jpg
+|      |--- 376H.jpg
+|      |--- sunset-2191645.jpg
+|      |--- .DS_Store
+|      |--- Behind-The-Monkey.jpg
+|      |--- golden-gate-bridge-sunset-wallpaper-for-3840x2160-4k-136-1083.jpg
+|      |--- floating-shapes-wallpaper-for-3840x2160-4k-136-552.jpg
+|      |--- coffee-beans-2258839.jpg
+|      |--- father-and-son-2258681.jpg
+|      |--- 3d-geometry-wallpaper-for-3840x2160-4k-136-526.jpg
+|      |--- 1015-14-abandoned-staircase.jpg
+|      |--- enchanting-porto-wallpaper-for-3840x2160-4k-136-254.jpg
+|      |--- mountain-landscape-2031539.jpg
+|      |--- Rock-Invaders.jpg
+|      |--- out-there-wallpaper-for-3840x2160-4k-136-921.jpg
+|      |--- batman_arkham_city_joker_harley_quinn_105399_1920x1080.jpg
+|      |--- 1115-13-orcas-log.jpg
+|      |--- collared-lizard-2275804.jpg
+|      |--- bhakk
+|            |--- .DS_Store
+|            |--- 304710.png
+|            |--- helloworld
+|                  |--- .DS_Store
+|                  |--- 724132.jpg
+|                  |--- checkit
+|                        |--- IMG_3867.jpg
+
+
+                                                                     Desktop/
+                                Screen Shot 2018-01-12 at 3.01.41 PM.png ---|
+                               Screen Shot 2017-12-26 at 11.04.07 PM.png ---|
+                                                         crypto_2017.jpg ---|
+                                Screen Shot 2017-12-21 at 3.25.13 PM.png ---|
+                                Screen Shot 2017-12-21 at 3.25.29 PM.png ---|
+                                                               .DS_Store ---|
+                                Screen Shot 2017-12-21 at 3.21.36 PM.png ---|
+                              13.Harshit Anand_Payslip_December_2017.pdf ---|
+               Harshit_Anand-Form 12BB - Investment Declaration Form.xls ---|
+                                                   privateinvestocat.jpg ---|
+                                Screen Shot 2018-01-12 at 3.01.51 PM.png ---|
+                                                              .localized ---|
+                               Screen Shot 2018-01-06 at 12.47.17 AM.png ---|
+                                Screen Shot 2017-12-22 at 2.50.10 PM.png ---|
+                                                             goibibo.pdf ---|
+                                Screen Shot 2017-12-22 at 2.49.02 PM.png ---|
+                               Screen Shot 2017-12-20 at 11.13.47 PM.png ---|
+                     Select your seat and Web Checkin online -IndiGo.pdf ---|
+                                                          5e026ae9b3.jpg ---|
+                               Screen Shot 2017-12-26 at 11.22.38 PM.png ---|
+                                Screen Shot 2017-12-26 at 1.58.15 PM.png ---|
+                                Screen Shot 2018-01-12 at 3.02.00 PM.png ---|
+                                       Cracking the Coding Interview.pdf ---|
+                                Screen Shot 2018-01-12 at 2.04.11 AM.png ---|
+                                Screen Shot 2018-01-12 at 3.01.29 PM.png ---|
+                                Screen Shot 2018-01-12 at 2.53.38 PM.png ---|
+                               Screen Shot 2017-12-26 at 11.03.53 PM.png ---|
+                                                                   walls ---|
+                                                         399H.jpg ---|      |
+                                                         376H.jpg ---|      |
+                                               sunset-2191645.jpg ---|      |
+                                                        .DS_Store ---|      |
+                                            Behind-The-Monkey.jpg ---|      |
+golden-gate-bridge-sunset-wallpaper-for-3840x2160-4k-136-1083.jpg ---|      |
+           floating-shapes-wallpaper-for-3840x2160-4k-136-552.jpg ---|      |
+                                         coffee-beans-2258839.jpg ---|      |
+                                       father-and-son-2258681.jpg ---|      |
+               3d-geometry-wallpaper-for-3840x2160-4k-136-526.jpg ---|      |
+                                  1015-14-abandoned-staircase.jpg ---|      |
+          enchanting-porto-wallpaper-for-3840x2160-4k-136-254.jpg ---|      |
+                                   mountain-landscape-2031539.jpg ---|      |
+                                                Rock-Invaders.jpg ---|      |
+                 out-there-wallpaper-for-3840x2160-4k-136-921.jpg ---|      |
+       batman_arkham_city_joker_harley_quinn_105399_1920x1080.jpg ---|      |
+                                            1115-13-orcas-log.jpg ---|      |
+                                      collared-lizard-2275804.jpg ---|      |
+                                                            bhakk ---|      |
+                                                  .DS_Store ---|            |
+                                                 304710.png ---|            |
+                                                 helloworld ---|            |
+                                            .DS_Store ---|                  |
+                                           724132.jpg ---|                  |
+                                              checkit ---|                  |
+                                   IMG_3867.jpg ---|                        |
